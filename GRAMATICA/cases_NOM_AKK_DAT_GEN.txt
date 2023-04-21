@@ -1,0 +1,272 @@
+
+
+Die Adjektivdeklination im Genitiv
+https://www.youtube.com/watch?v=1gfq9aOY0n0
+
+
+Relative Pronouns (Nom - Acc - Dat - Gen)
+(masc) der -- den -- dem -- dessen
+(neut)  das -- das -- dem --  dessen
+(fem)   die -- die -- der --  deren
+(pl)      die -- die -- denen --  deren
+
+
+Der Mann, mit dem ich gerade gesprochen habe, heißt Peter.
+(The man, with whom I just spoke, is named Peter.) (dem, masculine dative)
+
+Obs: Dependent clauses in German always ‘kick’ their conjugated verbs to the end.
+
+
+Nom ---- Acc/Dat
+|||||||||||||||||||||||
+
+ich ----- mich/mir
+du ----- dich/dir
+
+er -----  ihn/ihm
+es -----  es/ihm
+sie ----- sie/ihr
+
+wir ----- uns/uns
+ihr ----- euch/euch
+sie ----- sie/ihnen
+
+
+
+mich or mir
+I will only go to the party with you
+T = 1
+Mo = 2 
+Ma = 3 with you
+P = 4 to the party
+I will only with you to the party go
+Ich gehe nur mit dir zur Feier
+
+I must go to school tomorrow
+T = 1 tomorrow
+Mo = 2 
+Ma = 3 
+P = 4 to school
+I must tomorrow to school go
+must = müssen, muss, musst, muss
+school = Schule die
+to = zu DAT
+Ich muss morgen zur Schule gehen
+
+
+
+Reflexive
+Nom  --------- Acc/Dat
+||||||||||||||||||||||||||||||
+
+ich ------- mich/mir
+du ------- dich/dir
+
+er -------  sich/sich
+es -------  sich/sich
+sie ------- sich/sich
+
+wir ------- uns/uns
+ihr ------- euch/euch
+sie ------- sich/sich
+
+
+Definido
+       Nom/adj -- Acc/adj -- Dat/adj -- Gen/adj
+(m)   der/e -- den/en -- dem/en -- des/en
+(n)    das/e -- das/e -- dem/en -- des/en
+(f)     die/e -- die/e -- der/en -- der/en
+(pl)   die/e -- die/e -- den/en -- der/en
+
+
+Er erklärte mir den normalen Ablauf. (He explained the normal procedure to me.)
+
+Ich habe das Buch (Acc) gelesen und den Film (Acc) gesehen.
+
+Adjetivos 
+Possessivos
+-----------------------
+mein, dein, sein/sein/ihr
+unser, euer/eur+, ihr
+
+(Adj) ein, kein, welch+, dies+, jed+, jen+
+
+          Nom/adj -- Acc/adj -- Dat/adj -- Gen/adj
+(m)    mein/er -- meinen/en -- meinem/en -- meines/en
+(n)     mein/es -- mein/es --   meinem/en  --  meines/en
+(f)      meine/e -- meine/e --   meiner/en    -- meiner/en
+(pl)    meine/e -- meine/e --   meinen/en  --  meiner/en,er
+
+
+
+Pronomes Possessivos
+mein, dein, sein, ihr, sein, unser, euer/eur+, ihr
+
+          Nom/adj -- Acc/adj -- Dat/adj 
+(m)    meiner   -- meinen -- meinem 
+(n)     meines  -- meins --   meinem  
+(f)      meine   -- meine --   meiner    
+(pl)    meine   -- meine --   meinen  
+          Nom/adj -- Acc/adj -- Dat/adj 
+(m)    deiner   -- deinen -- deinem 
+(n)     deines  -- deins --   deinem  
+(f)      deine   -- deine --   deiner    
+(pl)    deine   -- deine --   deinen  
+
+
+
+
+
+Nouns used as temporal adverbs without any preposition are in the accusative case:
+
+Ich fahre nächsten Sommer nach Deutschland. (nächsten ACC) (Sommer masc.)
+= I fly to Germany next summer.
+
+
+einer, eines, eine
+https://www.verbformen.com/declension/articles/ein.htm
+
+ein, kein (adj)
+           Nom -- Acc -- Dat -- Gen
+(m)     einer -- einen -- einem -- eines
+(n)      eines -- eines -- einem -- eines
+(f)       eine --  eine -- einer -- einer
+
+Ruft einen Krankenwagen. 
+= Call an ambulance.
+
+I watched quite a few movies in 3D and one of the very few that I liked was Avatar.
+Ich habe mir einige Filme in 3D angesehen und einer der sehr wenigen, die mir gefallen haben, war Avatar. (Fim M)
+
+(Path of vengeance) (da vingança, genitivo)
+Pfad der Vergeltung (Vergeltung F)
+
+(That's/This is a good thought)
+Das ist ein guter Gedanke (Gedanke M, gut adj)
+
+(That's/This is a good girl)
+Das ist ein gutes Mädchen (Mädchen N, gut adj)
+
+(That's/This is a good woman)
+Das ist eine gute Frau (Frau F, gut adj)
+
+neu, neues (Acc) (And from where are we supposed to get new staff from so quickly?)
+Und woher sollen wir so schnell neues Personal bekommen? (Personal N)
+
+weite/weit (Nom pl.), Kreise/Kreis (Nom pl.), Teile/Teil (Nom pl.), large sections of the population
+weite Kreise / weite Teile der Bevölkerung  (Bevölkerung F, weit adj, Kreise Pl, Teile Pl)
+
+dir (Dat), einen guten (Acc) (M.) I wish you a good day
+Ich wünsche dir einen guten Tag
+
+(Gen sing.) (M.) She reads the message of each Tweet
+Sie liest die Nachricht jedes Tweets.
+Tweet (M.)
+
+(Acc) (M.) Write each tweet as if it were your last
+Schreibe jeden Tweet so, als wäre er Dein letzter. 
+als = as
+wäre er = ele fosse
+Tweet (M.)
+
+(Nom) (M.) (Her tall son is here)
+Ihr großer Sohn ist hier. 
+
+(Nom) (M.) My stupid neighbor has arrived
+Mein dummer Nachbar ist angekommen
+
+stupid neighbor
+dummer Nachbar = Nachbar M.
+
+stupid stuff
+dummes Zeug = Zeug N.
+
+to talk stupid stuff
+dummes Zeug reden = Zeug N.
+
+She talked stupid things
+Sie hat dummes Zeug geredet
+
+(Nom) (F.) (Her tall daughter is here)
+Ihre große Tochter ist hier. 
+
+(Gen sing.) (M.) This is the car of my stupid boss
+Das ist das Auto meines blöden Chefs.
+
+(Acc) (M.) I'm watching the movie
+Ich sehe den Film
+
+(Acc) (M.) This morning I saw her son
+Ich habe Ihren großen Sohn gesehen  
+
+(Acc) (F.) This morning I saw her tall daughter
+Ich habe Ihre große Tochter gesehen 
+
+(Acc) (N.) He threw away his old bed
+Er hat sein altes Bett weggeworfen. /vék/ 
+Er warf sein altes Bett weg
+wegwerfen /vék/  =  to discard 
+(wirft weg, warft weg)
+
+(Dat) (M.) Anna is writing to her son
+Anna schreibt Ihrem großen Sohn. 
+
+(Dat) (M.) Anna received new from her tall daughter
+Anna hat Nachrichten von Ihrer großen Tochter erhalten.
+
+(Nom) (N.) Which verb can you use here without changing the meaning of the sentences?
+Welches Verb kann man hier benutzen ohne den Sinn der Sätze zu verändern?
+
+(Dat) (M.) Which verb can you use here without changing the meaning of the sentences?
+Welches Verb kann man hier benutzen ohne den Sinn der Sätze zu verändern?
+
+(Gen) (P.) Which verb can you use here without changing the meaning of the sentences?
+Welches Verb kann man hier benutzen ohne den Sinn der Sätze zu verändern?
+
+(Acc) (M.) I’d like to drink a coffee
+Ich möchte einen Kaffee trinken.
+
+(Acc) (N.) I’d like to drink a beer
+Ich möchte kein Bier trinken.
+
+(Nom) (P.) A few more questions
+Ein paar weitere Fragen
+
+(Dat) (M.) He often quarreled with the difficult boss.
+Er hat oft mit dem mühsamen Chef gestritten. 
+
+(Dat) Alex wasn't happy at his old job.
+Alex war in seinem alten Job nich glücklich. 
+
+(Gen sing.) This is the car of the young man
+Das ist das Auto des jungen Mannes.
+
+(Gen pl.) These are the cars of the young men
+Das sind die Autos der jungen Männer
+
+(Gen sing.) The gloves of the child
+Die Handschuhe des Kindes.
+
+(Gen sing.) The family of my friend
+Die Familie meines Freundes. 
+
+
+NOMINATIV
+https://www.youtube.com/watch?v=exwewlcw8UY&t=732s
+
+
+AKKUSATIV
+https://www.youtube.com/watch?v=uWMR5mymHII&t=75s
+
+
+DATIV
+https://www.youtube.com/watch?v=dBE4lA8ZemE
+
+
+GENITIV
+https://www.youtube.com/watch?v=1gfq9aOY0n0
+
+
+
+
+

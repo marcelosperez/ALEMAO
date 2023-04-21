@@ -1,0 +1,223 @@
+
+dative ---> no movement
+acc ---> movement
+
+
+9
+||||||||||||||||||||||||||||||||||||||||
+||||| (DAT/ACC mov) |||||
+||||||||||||||||||||||||||||||||||||||||
+
+
+
+1) an, ans, am (DAT/ACC) = on, in, at, for, to
+2) auf, aufs (DAT/ACC) = at, on, in
+3) in, ins, im (DAT/ACC) = in, into
+
+4) neben (DAT/ACC) = next to, beside, besides
+5) hinter (DAT/ACC) = behind
+
+6) über, übers (DAT/ACC) = over, above
+7) unter (DAT/ACC) = under
+
+8) vor (DAT/ACC) = in front of, before
+9) zwischen (DAT/ACC) = between, among
+
+
+
+
+
+
+1) 
+The Christmas season is already knocking on the door
+Tom is sitting at the bar.
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+an, ans, am (on, in, at, for, to)
+Die Weihnachtszeit klopft schon an die Tür. (Tür f.) ACC "movement"
+Tom sitzt an der Bar. (Bar f.) DAT "NO movement"
+
+
+
+
+2) 
+The cat is sitting on the table
+There is a lot of activity at the fair (fair m.)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+auf, aufs (at, on)
+Die Katze sitzt auf dem Tisch. (Tisch m.) 
+Auf dem Jahrmarkt herrscht reger Betrieb (Jahrmarkt m.)
+
+
+
+
+
+3) 
+The ball rolled into the goal.
+in, ins, im (in, into)
+in, ins, im (in, into)
+in, ins, im (in, into)
+in, ins, im (in, into)
+in, ins, im (in, into)
+in, ins, im (in, into)
+in, ins, im (in, into)
+in, ins, im (in, into)
+in, ins, im (in, into)
+Der Ball rollte ins Tor. 
+
+
+
+
+
+
+4) 
+Besides tennis, she also plays basketball
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+neben (next to, beside, besides)
+Neben Tennis spielt sie auch Basketball. 
+
+
+
+
+
+5) 
+There is a garden behind our house.
+hinter (behind)
+hinter (behind)
+hinter (behind)
+hinter (behind)
+hinter (behind)
+hinter (behind)
+hinter (behind)
+hinter (behind)
+hinter (behind)
+hinter (behind)
+Hinter unserem Haus ist ein Garten. 
+
+
+
+
+
+6) 
+The boy threw his ball over the fence.
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+über, übers (over, above)
+Der Junge warf seinen Ball über den Zaun. 
+
+
+
+
+7) 
+My dog loves to sleep under the table.
+unter (under)
+unter (under)
+unter (under)
+unter (under)
+unter (under)
+unter (under)
+unter (under)
+unter (under)
+unter (under)
+unter (under)
+Mein Hund liebt es, unter dem Tisch zu schlafen. (Tisch m.)
+
+
+
+
+
+8) 
+The player was nervous before his first match.
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+vor (in front of, before)
+Der Spieler war vor seinem ersten Spiel nervös. (Spiel n.)
+
+
+
+
+
+9) 
+There is a passage between the two houses.
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+zwischen (between, among)
+Zwischen den (pl.) beiden Häusern ist eine Durchfahrt. (Häuser pl.) (den pl.)
+
+
+
+
+
+(Accusative)
+den+adj/en (der+adj/e), das+adj/e, die+adj/e, die+adj/en
+mein, dein, sein, ihr, sein, unser, euer/eur, ihr
+meinen+adj/en (mein+adj/er), mein+adj/es, meine+adj/e, meine+adj/e
+einen+adj/en (ein+adj/er), ein+adj/es, eine+adj/e
+mich, dich, ihn, sie, es, uns, euch, sie
+letzten+noun (letzter+noun), letztes+noun, letzte+noun
+
+(Dative)
+dem+adj/en, dem+adj/en, der+adj/en, den+adj/en
+mein, dein, sein, ihr, sein, unser, euer/eur, ihr
+meinem+adj/en, meinem+adj/en, meiner+adj/en, meinen+adj/en
+einem+adj/en, einem+adj/en, einer+adj/en
+mir, dir, ihm, ihr, ihm, uns, euch, ihnen
+letztem+noun, letztem+noun, letzter+noun
+
+(Genitive)
+des+adj/en, des+adj/en, der+adj/en, der+adj/en
+mein, dein, sein, ihr, sein, unser, euer/eur, ihr
+meines+adj/en, meines+adj/en, meiner+adj/en, meiner+adj/en
+eines+adj/en, eines+adj/en, einer+adj/en
+
+
+
+
+
+
+
+
