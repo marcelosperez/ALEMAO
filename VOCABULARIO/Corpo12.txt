@@ -1,8 +1,8 @@
 corpo12
 
-pescoço = el cuello
-peito = el pecho
-barriga = vientre, guata, barriga
+pescoço = Hals, m. 
+peito = Brust, f.
+barriga = Bauch, m.
 
 
 
