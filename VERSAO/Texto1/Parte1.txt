@@ -13,6 +13,11 @@ Mit der Abschaltung von Isar 2 (Bayern), Emsland (Niedersachsen) und Neckarwesth
 abschalten = switch off
 Er schaltete den Computer ab und verließ das Büro. 
 (He shut down the computer and left the office)
+verließ, verlassen, to leave
+
+er verlässt = he leaves, is leaving
+er verließ = he left
+
 
 
 
