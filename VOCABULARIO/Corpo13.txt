@@ -1,8 +1,0 @@
-Corpo13
-
-ombro = Schulter, f.
-nuca = Nacken, m.
-braço = Arm, m.
-cotovelo = Ellbogen, m.
-costas = Rücken, m.
-axila = Achselhöhle, f.
